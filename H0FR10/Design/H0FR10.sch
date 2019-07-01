@@ -1500,8 +1500,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="D3" library="Hexabitz" deviceset="SMD-DIODE-SCHOTTKY-40V-300MA(SOD-323)" device=""/>
 <part name="R2" library="Hexabitz" deviceset="R-0603" device="" value="180.0 Ω">
-<attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0402FR-07100RL"/>
+<attribute name="MFN" value="Panasonic"/>
+<attribute name="MPN" value="ERJ-3GEYJ181V"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/erj-3geyj181v-panasonic-55403673"/>
 <attribute name="RESISTANCE" value="180.0 Ω"/>
 <attribute name="TOLERANCE" value="±5%"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.3.0">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -1431,15 +1431,15 @@ design rules under a new name.</description>
 <attribute name="DESCRIPTION" value=" Diode Small Signal Schottky 40V 0.3A Automotive 2-Pin SOD-323 T/R " x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="STMicroelectronics" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MP" value="BAT54JFILM" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="NAME" x="34.714303125" y="26.61858125" size="0.88965" layer="26" ratio="11" rot="MR0"/>
 <attribute name="NAME" x="32.68978125" y="26.58491875" size="0.635009375" layer="34" ratio="10" rot="MR180"/>
+<attribute name="NAME" x="34.714303125" y="26.61858125" size="0.88965" layer="26" ratio="11" rot="MR0"/>
 <attribute name="PACKAGE" value="SOD-323 STMicroelectronics" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="PRICE" value="None" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="32.05146875" y="27.794628125" size="0.890553125" layer="28" ratio="11" rot="MR180"/>
 </element>
 <element name="R2" library="Hexabitz" package="R-0603" value="180.0 Ω" x="33.6397625" y="24.183340625" smashed="yes" rot="MR180">
-<attribute name="MFN" value="Yageo" x="33.6397625" y="24.183340625" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="RC0402FR-07100RL" x="33.6397625" y="24.183340625" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MFN" value="Panasonic" x="33.6397625" y="24.183340625" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="ERJ-3GEYJ181V" x="33.6397625" y="24.183340625" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="NAME" x="40.1988" y="23.707853125" size="1.016" layer="26" rot="MR0"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/erj-3geyj181v-panasonic-55403673" x="33.6397625" y="24.183340625" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="RESISTANCE" value="180.0 Ω" x="33.6397625" y="24.183340625" size="1.778" layer="28" rot="MR180" display="off"/>
