@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -568,7 +568,7 @@
 <rectangle x1="29.896053125" y1="23.872696875" x2="30.249621875" y2="23.887428125" layer="21"/>
 <rectangle x1="29.9107875" y1="23.887428125" x2="30.1317625" y2="23.902159375" layer="21"/>
 <rectangle x1="29.92551875" y1="23.9021625" x2="30.01390625" y2="23.91689375" layer="21"/>
-<text x="17.145" y="58.547" size="1.4224" layer="51">Note: This module should be manufactured with 3oz copper to handle 10A current.</text>
+<text x="17.145" y="58.547" size="1.4224" layer="51">Note: This module should be manufactured with 2oz copper to handle 8A current.</text>
 <rectangle x1="30.360871875" y1="20.1493125" x2="30.478728125" y2="20.16404375" layer="21"/>
 <rectangle x1="30.243015625" y1="20.16404375" x2="30.478728125" y2="20.178775" layer="21"/>
 <rectangle x1="30.13989375" y1="20.178775" x2="30.4934625" y2="20.19350625" layer="21"/>
@@ -579,7 +579,7 @@
 <rectangle x1="29.580078125" y1="20.252434375" x2="30.552384375" y2="20.267165625" layer="21"/>
 <rectangle x1="29.476953125" y1="20.267165625" x2="30.567121875" y2="20.281896875" layer="21"/>
 <rectangle x1="29.4474875" y1="20.2819" x2="30.56711875" y2="20.29663125" layer="21"/>
-<text x="40.767" y="47.117" size="1.6764" layer="22" rot="MR0">30VDC/10A</text>
+<text x="40.767" y="47.117" size="1.6764" layer="22" rot="MR0">30VDC/8A</text>
 <wire x1="32.004" y1="46.101" x2="32.004" y2="42.672" width="0.254" layer="22"/>
 <wire x1="32.004" y1="42.672" x2="36.957" y2="42.672" width="0.254" layer="22"/>
 <wire x1="36.957" y1="42.672" x2="36.957" y2="46.101" width="0.254" layer="22"/>
