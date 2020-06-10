@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.0">
+<eagle version="9.6.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -1479,11 +1479,11 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="POWER_DISSIPATION" value="0.225 W"/>
 <attribute name="VOLTAGE_RATING_DC" value="40.0 V"/>
 </part>
-<part name="R4" library="Hexabitz" deviceset="R-0603" device="" value="2400 Ω">
+<part name="R4" library="Hexabitz" deviceset="R-0603" device="" value="1000 Ω">
 <attribute name="MFN" value="Yageo"/>
-<attribute name="MPN" value="RC0603JR-070RL"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06032k40jnea-vishay-40298967"/>
-<attribute name="RESISTANCE" value="2400.0 Ω"/>
+<attribute name="MPN" value="CRCW06031K00JNEA"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031k00jnea-vishay-55388219?r=sp"/>
+<attribute name="RESISTANCE" value="1000.0 Ω"/>
 <attribute name="TOLERANCE" value="±5%"/>
 </part>
 <part name="R5" library="Hexabitz" deviceset="R-0603" device="" value="10.0 Ω">
