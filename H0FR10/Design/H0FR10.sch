@@ -1480,7 +1480,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="VOLTAGE_RATING_DC" value="40.0 V"/>
 </part>
 <part name="R4" library="Hexabitz" deviceset="R-0603" device="" value="1000 Ω">
-<attribute name="MFN" value="Yageo"/>
+<attribute name="MFN" value="Vishay"/>
 <attribute name="MPN" value="CRCW06031K00JNEA"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/crcw06031k00jnea-vishay-55388219?r=sp"/>
 <attribute name="RESISTANCE" value="1000.0 Ω"/>
