@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -22,7 +22,7 @@
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="12" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="9" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -183,7 +183,7 @@
 <text x="22.113" y="30.21" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P4</text>
 <text x="21.859" y="38.776" size="1.9304" layer="21" font="vector" align="center">P5</text>
 <text x="22.748" y="38.649" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P5</text>
-<text x="25.534621875" y="35.130996875" size="1.9304" layer="22" font="vector" rot="MR0" align="center">H0FR10</text>
+<text x="25.534621875" y="35.130996875" size="1.9304" layer="22" font="vector" rot="MR0" align="center">H0FR11</text>
 <rectangle x1="34.13886875" y1="24.082503125" x2="34.1536" y2="24.097234375" layer="21"/>
 <rectangle x1="34.021015625" y1="24.097234375" x2="34.168334375" y2="24.111965625" layer="21"/>
 <rectangle x1="33.903159375" y1="24.111965625" x2="34.168334375" y2="24.126696875" layer="21"/>
@@ -568,7 +568,7 @@
 <rectangle x1="29.896053125" y1="23.872696875" x2="30.249621875" y2="23.887428125" layer="21"/>
 <rectangle x1="29.9107875" y1="23.887428125" x2="30.1317625" y2="23.902159375" layer="21"/>
 <rectangle x1="29.92551875" y1="23.9021625" x2="30.01390625" y2="23.91689375" layer="21"/>
-<text x="17.145" y="58.547" size="1.4224" layer="51">Note: This module should be manufactured with 2oz copper to handle 8A current.</text>
+<text x="17.145" y="58.547" size="1.4224" layer="51">Note: This module should be manufactured with 1oz copper to handle 4A current.</text>
 <rectangle x1="30.360871875" y1="20.1493125" x2="30.478728125" y2="20.16404375" layer="21"/>
 <rectangle x1="30.243015625" y1="20.16404375" x2="30.478728125" y2="20.178775" layer="21"/>
 <rectangle x1="30.13989375" y1="20.178775" x2="30.4934625" y2="20.19350625" layer="21"/>
@@ -579,7 +579,7 @@
 <rectangle x1="29.580078125" y1="20.252434375" x2="30.552384375" y2="20.267165625" layer="21"/>
 <rectangle x1="29.476953125" y1="20.267165625" x2="30.567121875" y2="20.281896875" layer="21"/>
 <rectangle x1="29.4474875" y1="20.2819" x2="30.56711875" y2="20.29663125" layer="21"/>
-<text x="40.767" y="47.117" size="1.6764" layer="22" rot="MR0">30VDC/8A</text>
+<text x="40.767" y="47.117" size="1.6764" layer="22" rot="MR0">30VDC/4A</text>
 <wire x1="32.004" y1="46.101" x2="32.004" y2="42.672" width="0.254" layer="22"/>
 <wire x1="32.004" y1="42.672" x2="36.957" y2="42.672" width="0.254" layer="22"/>
 <wire x1="36.957" y1="42.672" x2="36.957" y2="46.101" width="0.254" layer="22"/>
@@ -1431,8 +1431,8 @@ design rules under a new name.</description>
 <attribute name="DESCRIPTION" value=" Diode Small Signal Schottky 40V 0.3A Automotive 2-Pin SOD-323 T/R " x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="STMicroelectronics" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MP" value="BAT54JFILM" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="NAME" x="34.714303125" y="26.61858125" size="0.88965" layer="26" ratio="11" rot="MR0"/>
 <attribute name="NAME" x="32.68978125" y="26.58491875" size="0.635009375" layer="34" ratio="10" rot="MR180"/>
+<attribute name="NAME" x="34.714303125" y="26.61858125" size="0.88965" layer="26" ratio="11" rot="MR0"/>
 <attribute name="PACKAGE" value="SOD-323 STMicroelectronics" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="PRICE" value="None" x="33.9598" y="25.949909375" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="32.05146875" y="27.794628125" size="0.890553125" layer="28" ratio="11" rot="MR180"/>

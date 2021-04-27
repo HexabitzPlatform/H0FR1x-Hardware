@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.1">
+<eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -3850,14 +3850,14 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="215.7222" y="14.7066" size="1.9304" layer="100" font="vector">Revision</text>
 <text x="215.9" y="5.3848" size="1.9304" layer="100" font="vector">Sheet   of</text>
 <text x="199.4662" y="19.6342" size="1.9304" layer="100" font="vector">Title</text>
-<text x="180.9242" y="19.6342" size="1.9304" layer="102" font="vector">H0FR10</text>
-<text x="179.2478" y="11.2014" size="1.9304" layer="101" font="vector">8A SPDT Relay </text>
-<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0FR10_Backend</text>
+<text x="180.9242" y="19.6342" size="1.9304" layer="102" font="vector">H0FR1</text>
+<text x="179.2478" y="11.2014" size="1.9304" layer="101" font="vector">4A SPDT Relay </text>
+<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0FR11_Backend</text>
 <wire x1="168.91" y1="3.81" x2="168.91" y2="8.128" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="8.128" x2="168.91" y2="18.288" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="18.288" x2="168.91" y2="22.86" width="0.1524" layer="205"/>
 <text x="222.25" y="10.2108" size="1.9304" layer="101" font="vector">Letter</text>
-<text x="227.6602" y="14.7066" size="1.9304" layer="101" font="vector">0</text>
+<text x="227.6602" y="14.7066" size="1.9304" layer="101" font="vector">1</text>
 <text x="223.52" y="5.3848" size="1.9304" layer="101" font="vector">1</text>
 <text x="228.346" y="5.3848" size="1.9304" layer="101" font="vector">2</text>
 <wire x1="231.14" y1="3.81" x2="231.14" y2="18.288" width="0.1524" layer="205"/>
@@ -12699,14 +12699,14 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="215.7222" y="14.7066" size="1.9304" layer="100" font="vector">Revision</text>
 <text x="215.9" y="5.3848" size="1.9304" layer="100" font="vector">Sheet   of</text>
 <text x="199.4662" y="19.6342" size="1.9304" layer="100" font="vector">Title</text>
-<text x="180.9242" y="19.6342" size="1.9304" layer="102" font="vector">H0FR10</text>
-<text x="179.2478" y="11.2014" size="1.9304" layer="101" font="vector">8A SPDT Relay </text>
-<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0FR10_Frontend</text>
+<text x="180.9242" y="19.6342" size="1.9304" layer="102" font="vector">H0FR1</text>
+<text x="179.2478" y="11.2014" size="1.9304" layer="101" font="vector">4A SPDT Relay </text>
+<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">H0FR11_Frontend</text>
 <wire x1="168.91" y1="3.81" x2="168.91" y2="8.128" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="8.128" x2="168.91" y2="18.288" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="18.288" x2="168.91" y2="22.86" width="0.1524" layer="205"/>
 <text x="222.25" y="10.2108" size="1.9304" layer="101" font="vector">Letter</text>
-<text x="227.6602" y="14.7066" size="1.9304" layer="101" font="vector">0</text>
+<text x="227.6602" y="14.7066" size="1.9304" layer="101" font="vector">1</text>
 <text x="223.52" y="5.3848" size="1.9304" layer="101" font="vector">2</text>
 <text x="228.346" y="5.3848" size="1.9304" layer="101" font="vector">2</text>
 <wire x1="231.14" y1="3.81" x2="231.14" y2="18.288" width="0.1524" layer="205"/>
