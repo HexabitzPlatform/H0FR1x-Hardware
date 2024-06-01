@@ -7414,7 +7414,7 @@ Source: &lt;a href="https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf
 <wire x1="168.783" y1="7.874" x2="214.503" y2="7.874" width="0.1524" layer="205"/>
 <wire x1="231.013" y1="18.034" x2="231.013" y2="22.606" width="0.1524" layer="205"/>
 <text x="242.5192" y="5.9182" size="1.9304" layer="100" font="vector">www.hexabitz.com</text>
-<text x="184.2008" y="10.9474" size="1.9304" layer="101" font="vector">SPDT Relay</text>
+<text x="174.6758" y="10.9474" size="1.9304" layer="101" font="vector">230V 10A(RMS) SPDT Relay</text>
 <text x="241.935" y="139.065" size="1.778" layer="125">BOOT</text>
 <text x="187.96" y="85.725" size="1.778" layer="95">VDDIO2 Coupling</text>
 <text x="156.845" y="85.725" size="1.778" layer="95">Vref Coupling</text>
@@ -13941,7 +13941,7 @@ Source: &lt;a href="https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf
 <wire x1="168.783" y1="8.382" x2="214.503" y2="8.382" width="0.1524" layer="205"/>
 <wire x1="231.013" y1="18.542" x2="231.013" y2="23.114" width="0.1524" layer="205"/>
 <text x="242.5192" y="6.4262" size="1.9304" layer="100" font="vector">www.hexabitz.com</text>
-<text x="184.2008" y="11.4554" size="1.9304" layer="101" font="vector">SPDT Relay</text>
+<text x="174.0408" y="11.4554" size="1.9304" layer="101" font="vector">230V 10A(RMS) SPDT Relay</text>
 <text x="144.145" y="126.365" size="2.54" layer="89" font="vector" ratio="11" distance="46">Contact Rating
 10A  - 230V</text>
 <text x="115.57" y="126.365" size="1.778" layer="91">Ningbo Songle Relay
